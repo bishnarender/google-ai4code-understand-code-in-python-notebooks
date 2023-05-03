@@ -26,6 +26,7 @@ For better understanding of project, read the files in the following order:
 ![model](https://user-images.githubusercontent.com/49610834/235819991-709b6b47-d45b-4a10-9076-60983629c183.jpg)
 
 <b>How i trained the model over kaggle notebook:</b>
+
 First, train the model with lr=1849e-7, parameter.seq_length=512, batch_size=3, n_accumulate=5 and the whole fold data (approx 1.25 lakh data points). Train till the train_loss=0.02 is not achieved. Overall the theme is to train with the maximum possible batch_size at start. 
 
 In the second round, train the model with lr=1849e-10, parameter.seq_length=2048, batch_size=2, n_accumulate=5 and the fold data (minimum 20K data points). Train till the best is not achieved.
