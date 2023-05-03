@@ -19,7 +19,8 @@ For better understanding of project, read the files in the following order:
 -----
 
 ### train_type_1.ipynb
-<b>deberta-v3-base has been used. It has only 86M backbone parameters</b>
+<b>deberta-v3-base has been used. It has only 86M backbone parameters.</b>
+
 <b>No pre MLM has been used.</b>
 
 ![model](https://user-images.githubusercontent.com/49610834/235819991-709b6b47-d45b-4a10-9076-60983629c183.jpg)
