@@ -1,5 +1,5 @@
-# google-ai4code-understand-code-in-python-notebooks
-## 20th place score achieved.
+## google-ai4code-understand-code-in-python-notebooks
+## score at 20th position is achieved.
 ![ai4code_submission](https://user-images.githubusercontent.com/49610834/235819407-27ed1b6b-286a-454c-9f6d-b04f17d36bc0.png)
 
 -----
